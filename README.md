@@ -1,17 +1,17 @@
 # 🍕 Pizza Landing Page
 
-Landing page moderna de una pizzería, diseñada con un enfoque visual atractivo y animaciones que destacan los ingredientes y el sabor de una buena pizza. Hecha con HTML, CSS y JavaScript, utilizando GSAP y ScrollMagic para efectos de movimiento.
+A modern pizzeria landing page, designed with an appealing visual approach and animations that highlight the ingredients and flavor of a good pizza. Made with HTML, CSS, and JavaScript, using GSAP and ScrollMagic for motion effects.
 
 🔗 [🍕 Pizza Landing Page](https://animeshmaji.github.io/gsap-animation-pizza/)
 
-## 🔥 Características
+## 🔥 Features
 
-- Animaciones suaves con **GSAP**
-- Efectos de scroll con **ScrollMagic**
-- Imágenes de ingredientes y pizza organizadas por secciones
-- Diseño visual limpio y llamativo
+- Smooth animations with *GSAP*
+- Scroll effects with *ScrollMagic*
+- Images of ingredients and pizza organized by sections
+- Clean and striking visual design
 
-## 🛠️ Tecnologías utilizadas
+## 🛠️ Technologies used
 
 - HTML5
 - CSS3
@@ -20,9 +20,9 @@ Landing page moderna de una pizzería, diseñada con un enfoque visual atractivo
 - ScrollMagic
 - Google Fonts (Poppins)
 
-## 🚀 Cómo ver el proyecto
+## 🚀 How to view the project
 
-1. Clona el repositorio:
+1. Clone the repository:
 
    ```bash
    git clone 🍕 Pizza Landing Page
