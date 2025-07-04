@@ -2,7 +2,7 @@
 
 Landing page moderna de una pizzería, diseñada con un enfoque visual atractivo y animaciones que destacan los ingredientes y el sabor de una buena pizza. Hecha con HTML, CSS y JavaScript, utilizando GSAP y ScrollMagic para efectos de movimiento.
 
-🔗 [Ver página en vivo](https://erickdc7.github.io/gsap-animation-pizza/)
+🔗 [🍕 Pizza Landing Page](https://animeshmaji.github.io/gsap-animation-pizza/)
 
 ## 🔥 Características
 
@@ -25,4 +25,4 @@ Landing page moderna de una pizzería, diseñada con un enfoque visual atractivo
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/erickdc7/gsap-animation-pizza.git
+   git clone 🍕 Pizza Landing Page
